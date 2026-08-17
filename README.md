@@ -3,7 +3,7 @@
 **AI engineer — agentic systems & RAG.** I design and ship production LLM systems end to end: architecture,
 code, deployment, and the product decisions behind them. Gdańsk, Poland (CET/CEST).
 
-### Systems I've built
+### Selected systems I've built
 
 - **Legal AI platform — production.** Multi-tenant legal research and drafting over a corpus of 350,000+
   legal documents. The model is never trusted with facts: it answers only through search over that corpus,
