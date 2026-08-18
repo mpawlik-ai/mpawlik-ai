@@ -1,6 +1,6 @@
 ## Michał Pawlik
 
-**AI Products engineer — agentic systems & RAG.** I design and ship production LLM systems end to end: architecture,
+**AI Product engineer — agentic systems & RAG.** I design and ship production LLM systems end to end: architecture,
 code, deployment, and the product decisions behind them. Gdańsk, Poland (CET/CEST).
 
 ### Selected systems I've built
